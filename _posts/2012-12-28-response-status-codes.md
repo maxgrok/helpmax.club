@@ -1,5 +1,5 @@
 ---
-title: 'Response status codes'
+title: 'Welcome'
 
 layout: nil
 ---
