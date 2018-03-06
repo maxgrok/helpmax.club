@@ -1,5 +1,5 @@
 ---
-title: 'Endorsement'
+title: 'Endorsements'
 type: 'POST'
 
 layout: nil
