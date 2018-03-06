@@ -1,13 +1,11 @@
 ---
 category: Stuff
 path: '/stuff'
-title: 'Post a thing'
+title: 'Why am I learning how to code?'
 type: 'POST'
 
 layout: nil
 ---
-
-This method allows users to create a new thing.
 
 ### Request
 
